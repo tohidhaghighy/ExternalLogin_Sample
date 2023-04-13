@@ -1,0 +1,24 @@
+﻿@model List<ExternalLogin.Models.User.User>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>لیست کاربران</h2>
+        <ul>
+            @foreach (var user in Model)
+            {
+                <li><a>@user.UserName</a></li>
+            }
+        </ul>
+    </div>
+</div>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="alert alert-warning" style="text-align: center">
+        شما با موفقیت وارد سایت شدید
+    </div>
+}

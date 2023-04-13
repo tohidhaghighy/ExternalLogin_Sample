@@ -1,0 +1,6 @@
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.csproj.AssemblyReference.cache
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.AssemblyInfoInputs.cache
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.AssemblyInfo.cs
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.csproj.CoreCompileInputs.cache
+C:\Users\tohid-PC\Downloads\ExternalLogin\ExternalLogin\obj\Debug\net6.0\ExternalLogin.MvcApplicationPartsAssemblyInfo.cache
